@@ -3,7 +3,7 @@
 <!-- =========================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dk7678386-netizen/dk7678386-netizen/main/WhatsApp%20Image%202026-07-12%20at%206.02.18%20PM.jpeg" width="100%" alt="Banner"/>
+  <img src="https://github.com/dk7678386-netizen/dk7678386-netizen/blob/main/bc9bb6d7-3d70-4f75-8992-9a0bbbdbd286.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">
